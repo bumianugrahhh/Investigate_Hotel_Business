@@ -1,6 +1,7 @@
 # Investigate Hotel Business using Data Visualization: Project Overview 
 - Berperan sebagai anggota dari tim **Data Scientist** di sebuah perusahaan hotel, bertanggung jawab untuk memberikan insight-insight yang berhubungan dengan performa bisnis hotel.
 - Dataset yang digunakan [hotel_bookings_data.csv](https://github.com/bumianugrahhh/Investigate_Hotel_Business/blob/main/hotel_bookings_data.csv)
+- Menghapus data duplicate 
 - Membersihkan data dari missing value dengan cara *imputasi(fillna)* dan *menghapus(drop)* row
 - Mengganti value yang tidak sesuai pada kolom *meal*
 - Membuang data yang tidak memiliki tamu karena data tersebut tidak diperlukan
@@ -12,3 +13,10 @@
 - Google colab
 
 # Insight/Analisis
+1. Analisis Jumlah Pemesanan Hotel per Bulan berdasarkan tipe Hotel
+<br><br>
+![alt text](https://github.com/bumianugrahhh/Investigate_Hotel_Business/blob/main/Fig/Monthly%20Hotel%20Booking%20Analysis%20Based%20on%20Hotel%20type.png)
+<br><br>
+Terlihat bahwa kedua type hotel mengalami peningkatan jumlah pemesan dibulan juni dan juli, yang mana pada bulan tersebut bertepatan dengan Hari Raya dan libur anak sekolahan.
+Sedangkan pada bulan-bulan lainnya yang tidak bertepatan dengan hari libur, jumlah pemesan cenderung lebih rendah, terutama di bulan Januari – Maret.
+
