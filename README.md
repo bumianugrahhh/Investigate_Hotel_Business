@@ -13,20 +13,20 @@
 - Google colab
 
 # Insight/Analisis
-1. **Analisis Jumlah Pemesanan Hotel per Bulan berdasarkan tipe Hotel**
+**1. Analisis Jumlah Pemesanan Hotel per Bulan berdasarkan tipe Hotel**
 <br><br>
 ![alt text](https://github.com/bumianugrahhh/Investigate_Hotel_Business/blob/main/Fig/Monthly%20Hotel%20Booking%20Analysis%20Based%20on%20Hotel%20type.png)
 <br><br>
 Terlihat bahwa kedua type hotel mengalami peningkatan jumlah pemesan dibulan juni dan juli, yang mana pada bulan tersebut bertepatan dengan Hari Raya dan libur anak sekolahan.
 Sedangkan pada bulan-bulan lainnya yang tidak bertepatan dengan hari libur, jumlah pemesan cenderung lebih rendah, terutama di bulan Januari – Maret.
 
-2. **Analisa Pengaruh Durasi Menginap terhadap tingkat Pembatalan Pemesanan Hotel**
+**2. Analisa Pengaruh Durasi Menginap terhadap tingkat Pembatalan Pemesanan Hotel**
 <br><br>
 ![alt text](https://github.com/bumianugrahhh/Investigate_Hotel_Business/blob/main/Fig/Pengaruh%20Durasi%20Menginap%20terhadap%20Tingkat%20Pembatalan%20Pesanan%20Hotel.png)
 <br><br>
 Cancellation Rate kedua tipe hotel meningkat seiring dengan meningkatnya durasi menginap. Dan pada durasi menginap 5+ minggu mengalami penurunan yang sangat signifikan.
 
-3. **Analisis Pengaruh Jarak waktu Pemesanan terhadap Tingkat Pembatalan Pemesanan Hotel**
+**3. Analisis Pengaruh Jarak waktu Pemesanan terhadap Tingkat Pembatalan Pemesanan Hotel**
 <br><br>
 ![alt text](https://github.com/bumianugrahhh/Investigate_Hotel_Business/blob/main/Fig/Pengaruh%20Jarak%20Waktu%20Pesanan%20terhadap%20Tingkat%20Pembatalan%20Pesanan%20Hotel.png)
 <br><br>
