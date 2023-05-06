@@ -20,3 +20,19 @@
 Terlihat bahwa kedua type hotel mengalami peningkatan jumlah pemesan dibulan juni dan juli, yang mana pada bulan tersebut bertepatan dengan Hari Raya dan libur anak sekolahan.
 Sedangkan pada bulan-bulan lainnya yang tidak bertepatan dengan hari libur, jumlah pemesan cenderung lebih rendah, terutama di bulan Januari – Maret.
 
+2. Analisa Pengaruh Durasi Menginap terhadap tingkat Pembatalan Pemesanan Hotel
+<br><br>
+![alt text](https://github.com/bumianugrahhh/Investigate_Hotel_Business/blob/main/Fig/Pengaruh%20Durasi%20Menginap%20terhadap%20Tingkat%20Pembatalan%20Pesanan%20Hotel.png)
+<br><br>
+Cancellation Rate kedua tipe hotel meningkat seiring dengan meningkatnya durasi menginap. Dan pada durasi menginap 5+ minggu mengalami penurunan yang sangat signifikan.
+
+3. Analisis Pengaruh Jarak waktu Pemesanan terhadap Tingkat Pembatalan Pemesanan Hotel
+<br><br>
+![alt text](https://github.com/bumianugrahhh/Investigate_Hotel_Business/blob/main/Fig/Pengaruh%20Jarak%20Waktu%20Pesanan%20terhadap%20Tingkat%20Pembatalan%20Pesanan%20Hotel.png)
+<br><br>
+Cancellation Rate kedua tipe hotel cenderung meningkat seiring dengan meningkatnya waktu tunggu.
+Akan tetapi bisa dilihat bahwa garis tren Cancelation Rate City Hotel memiliki kemiringan yang sedikit lebih curam dibandingkan dengan Resort Hotel.
+City Hotel dan Resort Hotel memiliki Cancelation Rate tertinggi pada Lead Time 10-12 Bulan.
+
+
+
